@@ -43,6 +43,8 @@ LSM:Register("sound", "|cFFFF00001. BabyGotBack|r", [[Interface\Addons\SharedMed
 LSM:Register("sound", "|cFFFF00001. Toxic|r", [[Interface\Addons\SharedMedia_Wood\sound\bstoxic.ogg]])
 LSM:Register("sound", "|cFFFF00001. DangerZone|r", [[Interface\Addons\SharedMedia_Wood\sound\dangerzone.ogg]])
 
+---
+
 -- -----
 --   STATUSBAR
 -- -----
