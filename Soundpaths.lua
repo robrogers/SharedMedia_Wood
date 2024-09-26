@@ -41,6 +41,7 @@ LSM:Register("sound", "|cFFFF00001. wilhelmscream|r", [[Interface\Addons\SharedM
 LSM:Register("sound", "|cFFFF00001. SafetyDance|r", [[Interface\Addons\SharedMedia_Wood\sound\safetydance.ogg]])
 LSM:Register("sound", "|cFFFF00001. BabyGotBack|r", [[Interface\Addons\SharedMedia_Wood\sound\babygotback.ogg]])
 LSM:Register("sound", "|cFFFF00001. Toxic|r", [[Interface\Addons\SharedMedia_Wood\sound\bstoxic.ogg]])
+LSM:Register("sound", "|cFFFF00001. DangerZone|r", [[Interface\Addons\SharedMedia_Wood\sound\dangerzone.ogg]])
 
 -- -----
 --   STATUSBAR
