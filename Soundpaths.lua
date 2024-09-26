@@ -44,6 +44,7 @@ LSM:Register("sound", "|cFFFF00001. Toxic|r", [[Interface\Addons\SharedMedia_Woo
 LSM:Register("sound", "|cFFFF00001. DangerZone|r", [[Interface\Addons\SharedMedia_Wood\sound\dangerzone.ogg]])
 
 ---
+--
 
 -- -----
 --   STATUSBAR
