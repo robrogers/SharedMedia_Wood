@@ -42,9 +42,6 @@ LSM:Register("sound", "|cFFFF00001. SafetyDance|r", [[Interface\Addons\SharedMed
 LSM:Register("sound", "|cFFFF00001. BabyGotBack|r", [[Interface\Addons\SharedMedia_Wood\sound\babygotback.ogg]])
 LSM:Register("sound", "|cFFFF00001. Toxic|r", [[Interface\Addons\SharedMedia_Wood\sound\bstoxic.ogg]])
 LSM:Register("sound", "|cFFFF00001. DangerZone|r", [[Interface\Addons\SharedMedia_Wood\sound\dangerzone.ogg]])
-LSM:Register("sound", "|cFFFF00001. TokyoDrift|r", [[Interface\Addons\SharedMedia_Wood\sound\tokyo_drift.ogg]])
-LSM:Register("sound", "|cFFFF00001. JamesBond|r", [[Interface\Addons\SharedMedia_Wood\sound\james_bond.ogg]])
-LSM:Register("sound", "|cFFFF00001. Get Over Here!|r", [[Interface\Addons\SharedMedia_Wood\sound\getovahere.mp3]])
 
 ---
 --
